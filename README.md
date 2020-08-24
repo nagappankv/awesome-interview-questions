@@ -6,7 +6,40 @@
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-**Check out my [channel](https://t.me/botcube) or [blog](https://medium.com/@MaximAbramchuk).**
+---
+
+<div align="center">
+	<p>
+		<a href="https://triplebyte.com/a/TfjWb6Y/d">
+			<b>Looking for a job?</b>
+			<br>
+			No resume needed. Just prove you can code.
+			<br>
+			<div>
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+			</div>
+		</a>
+		<sub><i>Clicking this helps fund the Awesome project</i></sub>
+	</p>
+</div>
+
+---
+
+<div align="center">
+    <p>
+        <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
+            <b>Having Tech Interview?</b>
+            <br> 3600 Tech Interview Questions. <b>Answered</b>.
+            <br>
+            <div>
+                <img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260" alt="FullStack.Cafe">
+            </div>
+        </a>
+        <sub><i>Proudly supporting the Awesome project</i></sub>
+    </p>
+</div>
+
+---
 
 ### Table of Contents
 
@@ -257,10 +290,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 * [21 Essential Java Interview Questions](http://www.toptal.com/java/interview-questions)
 * [29 Essential Java Interview Questions from Adeva](https://adevait.com/java/interview-questions)
-* [A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources](https://github.com/svozniuk/java-interviews)
+* [A collection of Java interview questions and answers to them](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
 * [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/)
-* [There is the list of 201 core java interview questions The answers of the core java interview questions are short and to the point The core java interview questions are categorized in Basics of java interview questions, OOPs interview questions, String Handling interview questions, Multithreading interview questions, collection interview questions, JDBC interview questions etc](http://www.javatpoint.com/corejava-interview-questions)
+* [300 Core Java Interview Questions](http://www.javatpoint.com/corejava-interview-questions)
 * [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 * [Top 25 Most Frequently Asked Interview Core Java Interview Questions And Answers](http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html)
 * [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
@@ -290,6 +323,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
+* [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 
 ### jQuery
 
@@ -324,7 +358,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [25 Essential Node.js Interview Questions from Adeva](https://adevait.com/nodejs/interview-questions) 
 * [8 Essential Nodejs Interview Questions from Toptal](http://www.toptal.com/nodejs/interview-questions)
 * [Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm)
-* [There are two sides of the table: you either want to hire Nodejs developers or you want to get hired as a Nodejs developer This list helps you navigate a bit in this space, giving you some questions to ask, and a list of questions you should know the answer to](https://blog.risingstack.com/node-js-interview-questions/)
+* [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
 * [Top 25 Nodejs Interview Questions & Answers from Career Guru](http://career.guru99.com/top-25-interview-questions-on-node-js/)
 * [Top 30 Node.Js Interview Questions With Answers](https://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
 
@@ -437,6 +471,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+* [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
 ### TypeScript
 
@@ -536,7 +571,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Windows Admin Interview Questions & Answers](http://www.01world.in/p/windows.html)
 
 ## Algorithms
-
+* [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby](https://github.com/sagivo/algorithms)
 * [EKAlgorithms contains some well known CS algorithms & data structures](https://github.com/EvgenyKarkan/EKAlgorithms)
@@ -552,7 +587,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Top Blockchain Interview Questions](https://intellipaat.com/interview-question/blockchain-interview-questions/)
 * [Blockchain Developer Interview Questions and Answers](https://applicature.com/blog/blockchain-interview-questions)
 * [10 Essential Blockchain Interview Questions ](https://www.toptal.com/blockchain/interview-questions)
-* [Blockchain Interview Questions The Collection](https://medium.com/coinmonks/blockchain-interview-questions-the-collection-38de299ce44d)
 * [Top 30 Blockchain Interview Questions – For Freshers to Experienced](https://data-flair.training/blogs/blockchain-interview-questions/)
 * [Most Frequently Asked Blockchain Interview Questions](https://www.digitalvidya.com/blog/blockchain-interview-questions/)
 
@@ -576,7 +610,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Pattens implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
 ## Data structures
 
